@@ -10,7 +10,7 @@ I'm a final year B.Tech student graduating in 2024. I have a passion for coding 
 
 ## 🔭 Projects
 
-- [QWhatsapp](https://yaegareren.github.io/QWhatsapp/): A minified version of whatsapp to send messages withoout saving the contact
+
 - [MDPS](https://mdpsystem.streamlit.app/): A multiple disease prediction system built using ML
 
 ## 💼 Skills

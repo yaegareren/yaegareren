@@ -12,6 +12,7 @@ I'm a final year B.Tech student graduating in 2024. I have a passion for coding 
 
 
 - [MDPS](https://mdpsystem.streamlit.app/): A multiple disease prediction system built using ML
+- [SMP](https://stockmarketprediction-sarimax.streamlit.app/): A stock market prediction system using SARIMAX
 
 ## 💼 Skills
 
